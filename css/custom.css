@@ -1,0 +1,20 @@
+#recent-posts > .recent-post-item {
+  height: fit-content;
+  padding: 8px 0;
+}
+
+.avatar-img img:hover {
+  transform: none;
+}
+
+#aside-content .card-info .card-info-social-icons i:hover {
+  transform: none;
+}
+
+#aside-content .card-info #card-info-btn {
+  background-color: darkturquoise;
+}
+
+#aside-content .card-info #card-info-btn:hover {
+  background-color: gray;
+}
